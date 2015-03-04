@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zhaochengqian/AndroidStudioProjects/flickr_search_app/app/libs/picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="/Users/zhaochengqian/AndroidStudioProjects/flickr_search_app/app/build/intermediates/pre-dexed/debug/picasso-2.5.0-c14ae9cb960d56340ec58dc353a1f6aacabe7e1b.jar" />
+    </item>
+    <item
+        jar="/Users/zhaochengqian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/zhaochengqian/AndroidStudioProjects/flickr_search_app/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-d0218d513e8c330bba91fcb7f1fbb81401561b98.jar" />
+    </item>
+    <item
+        jar="/Users/zhaochengqian/AndroidStudioProjects/flickr_search_app/app/libs/slf4j-android-1.6.1-RC1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0b527e8aabcc1f1e97d1674dc3f4f0794ec5df1">
+        <dex dex="/Users/zhaochengqian/AndroidStudioProjects/flickr_search_app/app/build/intermediates/pre-dexed/debug/slf4j-android-1.6.1-RC1-2464489a8391c6a7b26669b4ebdc1c5c8459b943.jar" />
+    </item>
+    <item
+        jar="/Users/zhaochengqian/AndroidStudioProjects/flickr_search_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/zhaochengqian/AndroidStudioProjects/flickr_search_app/app/build/intermediates/pre-dexed/debug/classes-4c5adcc65c02122f4a205cd542e5affabc3e9ab3.jar" />
+    </item>
+    <item
+        jar="/Users/zhaochengqian/AndroidStudioProjects/flickr_search_app/app/libs/flickrj-android-2.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="08ff4a341260f9f438456d990396589d51a61e36">
+        <dex dex="/Users/zhaochengqian/AndroidStudioProjects/flickr_search_app/app/build/intermediates/pre-dexed/debug/flickrj-android-2.1.0-a006d17a793710a85edcc564f5fe04cb0fe2bb5e.jar" />
+    </item>
+    <item
+        jar="/Users/zhaochengqian/AndroidStudioProjects/flickr_search_app/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/zhaochengqian/AndroidStudioProjects/flickr_search_app/app/build/intermediates/pre-dexed/debug/classes-50fc86c05e89269e44adff4c9059cdfe3a260d99.jar" />
+    </item>
+    <item
+        jar="/Users/zhaochengqian/AndroidStudioProjects/flickr_search_app/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/zhaochengqian/AndroidStudioProjects/flickr_search_app/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-2617699f12ba6e56fe33d2caa57a24af3dcd91b9.jar" />
+    </item>
+
+</items>

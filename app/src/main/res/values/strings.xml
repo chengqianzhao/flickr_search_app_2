@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Search</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- text for main_activity.xml -->
+
+    <string name="activity_main_search">Search</string>
+
+</resources>
